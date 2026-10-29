@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: brown-beast-facing-left
+title: Brown beast with trefoil in its tail, facing left
+description: A brown dragon-like quadruped walks to the left on four clawed feet, with a long arched neck, an open mouth, a pointed ear and a long tail that curls into a spiral behind it with a gold trefoil inside the curl. The body is brown with small cream drop-shaped marks and black contours, with thin green fringes from the initial's ground along parts of the outline; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - creature
+  - animal-like-creature
+  - trefoil
+colors:
+  - brown
+  - black
+  - gold
+  - cream
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+related:
+  - asset: walters-w148/brown-beast-facing-right
+    role: variant
+usage_notes:
+  - The gold trefoil inside the tail curl belongs to the piece; in the initial the two beasts face each other, so this one pairs with brown-quadruped-facing-right on the other side of a title or heading.
+display_width:
+  - 300
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Thin green fringes from the painted ground of the initial remain along parts of the outline.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "C" (Cristus paganis)
+  object_identifier: W.148, fol. 52r
+  date: First half of the 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000107_819.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 14c2bbca973c92502440f3e1d29b625dd889235829001b37318aba49eb307abf
+license: null

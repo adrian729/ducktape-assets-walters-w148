@@ -1,0 +1,63 @@
+# descriptive: find it and understand it
+id: opposed-leaves-with-gray-interlace
+title: Opposed leaves in gray interlace, repeat tile
+description: "One cycle of a vertical band on burnished gold: a pale gray-mauve ribbon outlined in black loops into four heart-shaped compartments on a dark ground, the outer two holding red three-lobed leaves that point outward and the middle two blue leaves that point in toward each other; a red rule with a white line runs along the left edge. The pattern continues across the top and bottom edges and the band is fully opaque."
+type: border
+categories:
+  - floral
+  - knotwork
+subjects:
+  - leaf
+  - ribbon
+  - interlace
+colors:
+  - gold
+  - red
+  - blue
+  - gray
+  - black
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: 31r
+render:
+  image: {}
+  tile:
+    axis: y
+    period: 1
+components:
+  corner-top-left:
+    master: corner-top-left.png
+    description: Top-left corner cut from the same initial, a red three-lobed leaf in a triangular compartment of the ribbon with the red rule turning the inner angle; transparent along its outer top and left edges. Its painted field is 517 px deep against the band's 419 px, so it is for hand-built frames only.
+  corner-top-right:
+    master: corner-top-right.png
+    description: Top-right corner from the same initial with its red leaf arranged for the right-hand angle, same depth as corner-top-left; for hand-built frames only.
+related:
+  - asset: walters-w148/lobed-leaves-in-gold-medallions
+    role: companion
+usage_notes:
+  - Repeat along y; the generated rotated tile gives the horizontal band. The red rule is the inner edge, keep it toward the framed content.
+  - "No frame atlas: the corners are about 98 px deeper than the band inside the red rule and would protrude into the framed area, so build a frame by hand from the band and the two corner components, aligning the red rules."
+display_width:
+  - 150
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The join at the ends is averaged over a two-column collar; the gold ground keeps the crackle of the leaf.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Walters Art Museum
+  object_title: Initial "S" (Sed cum iudei)
+  object_identifier: W.148, fol. 31r
+  date: First half of the 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c
+license: null

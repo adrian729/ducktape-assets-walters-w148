@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: three-gold-trefoils-on-serpentine-scroll
+title: Gold scroll with three trefoils
+description: A burnished gold band winds in a serpentine from a large spiral at the left through two smaller loops to a jagged cut end at the right, each loop holding a gold three-lobed trefoil, with a short tendril dropping from the lower curve. Thin black contours edge the gold, which keeps the crackled texture of the leaf and a faint pale paper line along some edges; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - scroll
+  - trefoil
+  - flower
+  - flourish
+colors:
+  - gold
+  - black
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 31r
+render:
+  image: {}
+usage_notes:
+  - The right end is cut where the scroll met the stroke of the letter S; use it as the trailing end of a flourish or tuck it under another element.
+display_width:
+  - 250
+  - 775
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Right end cut at the junction with the letter; a faint pale paper contour follows parts of the gold edge.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "S" (Sed cum iudei)
+  object_identifier: W.148, fol. 31r
+  date: First half of the 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c
+license: null

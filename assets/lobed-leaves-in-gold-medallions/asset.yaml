@@ -1,0 +1,66 @@
+# descriptive: find it and understand it
+id: lobed-leaves-in-gold-medallions
+title: Lobed leaves in gold medallions, repeat tile
+description: "One cycle of a horizontal band: three burnished gold roundels ringed in olive green hold a red, a blue and a gray-blue lobed leaf on a dark ground, joined by green stems with small curled leaves between them; a thin red rule with a pale line runs along the bottom edge. The pattern continues across the left and right edges; the strip above the band and a thinner one below the red rule are transparent."
+type: border
+categories:
+  - floral
+  - botanical
+subjects:
+  - leaf
+  - medallion
+  - stem
+colors:
+  - gold
+  - green
+  - red
+  - blue
+  - black
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: 31r
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+  frame:
+    corner: corner-top-left
+    slice: 20.59
+components:
+  corner-top-left:
+    master: corner-top-left.png
+    description: Top-left mitred corner cut from the same initial, a gray-blue four-lobed leaf in a gold roundel with the red rule turning the inner angle; transparent along its outer top and left edges.
+  corner-top-right:
+    master: corner-top-right.png
+    description: Alternative top-right corner from the same initial with a red four-lobed leaf in its roundel; the atlas does not use it, place it by hand.
+related:
+  - asset: walters-w148/opposed-leaves-with-gray-interlace
+    role: companion
+usage_notes:
+  - Repeat along x; the generated rotated tile gives the vertical band. The red rule is the inner edge, keep it toward the framed content.
+  - The frame atlas mirrors corner-top-left into all four corners, so every corner carries the gray-blue leaf; corner-top-right is the red-leaf variant for hand-built frames.
+display_width:
+  - 325
+  - 975
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The join at the ends is averaged over a two-column collar; the three roundels differ slightly in brushwork, as painted.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Walters Art Museum
+  object_title: Initial "S" (Sed cum iudei)
+  object_identifier: W.148, fol. 31r
+  date: First half of the 14th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c
+license: null
