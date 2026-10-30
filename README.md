@@ -3,7 +3,7 @@
 
 Two initials with their leaf medallions, interlace, trefoils and brown quadrupeds, from Walters Ms. W.148, a homilary of the first half of the 14th century, grouped by folio.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w148`, historical, 5 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w148`, historical, 5 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `walters-w148/brown-beast-facing-left`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w148@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w148@1.0.0/webp/brown-beast-facing-left-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-walters-w148`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-walters-w148-masters`; never put a master on a page.
